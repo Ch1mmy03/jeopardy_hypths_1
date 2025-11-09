@@ -1,0 +1,7 @@
+pandas
+matplotlib
+scipy
+gender-guesser
+nameparser
+python-dateutil
+ipykernel
